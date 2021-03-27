@@ -1,6 +1,8 @@
 # Genesis OS
 ### A brief forray into OS dev
 
+[gplv3-or-later.png]
+
 Everything is essentially implemented ver-batim from [wiki.osdev.org]
 
 Implemented:
