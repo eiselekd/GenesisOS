@@ -12,3 +12,8 @@ Implemented:
     - Incomplete implementation of USTAR filesystem
 
 Thanks to the cool people in the OSDev Discord server for putting up with my nonsense!
+
+## Dependencies
+
+ - (Limine)[https://github.com/limine-bootloader/limine]
+ - (Stivale (Submodule))[https://github.com/stivale/stivale]
