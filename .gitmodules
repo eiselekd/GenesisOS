@@ -1,0 +1,3 @@
+[submodule "src/vendor/stivale"]
+	path = src/vendor/stivale
+	url = https://github.com/stivale/stivale
