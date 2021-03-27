@@ -1,9 +1,9 @@
 # Genesis OS
 ### A brief forray into OS dev
 
-![gplv3-or-later.png]
+![GPLv3 or later Logo](gplv3-or-later.png)
 
-Everything is essentially implemented ver-batim from [https://wiki.osdev.org]
+Everything is essentially implemented ver-batim from https://wiki.osdev.org
 
 Implemented:
  - Booting with Limine
