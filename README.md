@@ -1,9 +1,9 @@
 # Genesis OS
 ### A brief forray into OS dev
 
-[gplv3-or-later.png]
+![gplv3-or-later.png]
 
-Everything is essentially implemented ver-batim from [wiki.osdev.org]
+Everything is essentially implemented ver-batim from [https://wiki.osdev.org]
 
 Implemented:
  - Booting with Limine
@@ -17,5 +17,5 @@ Thanks to the cool people in the OSDev Discord server for putting up with my non
 
 ## Dependencies
 
- - (Limine)[https://github.com/limine-bootloader/limine]
- - (Stivale (Submodule))[https://github.com/stivale/stivale]
+ - [https://github.com/limine-bootloader/limine](Limine)
+ - [https://github.com/stivale/stivale](Stivale \(Submodule\))
