@@ -1,6 +1,5 @@
-// SPDX-License-Identifier: GPL-3.0-or-later
-// Copyright (C) 2021 TTG <prs.ttg+gos@pm.me>
 #include "include/bootstrap.h"
+
 static uint8_t stack[4096];
 struct stivale2_header_tag_framebuffer framebuffer_hdr_tag = {
     .tag = {

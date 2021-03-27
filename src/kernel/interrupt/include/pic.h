@@ -1,3 +1,5 @@
+// SPDX-License-Identifier: GPL-3.0-or-later
+// Copyright (C) 2021 TTG <prs.ttg+projectname@pm.me>
 #ifndef _GOS_PIC
 #define _GOS_PIC
 

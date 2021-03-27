@@ -1,3 +1,5 @@
+// SPDX-License-Identifier: GPL-3.0-or-later
+// Copyright (C) 2021 TTG <prs.ttg+projectname@pm.me>
 #ifndef _GOS_LIBC_ASSERT
 #define _GOS_LIBC_ASSERT
 
@@ -10,4 +12,3 @@ void __assert_fail(const char *assertion, const char *file, uint32_t line, const
 #define assert(expr) ((expr) ? ((void) 0) : __assert_fail(# expr, __FILE__, __LINE__, __ASSERT_FUNCTION))
 
 #endif
-
