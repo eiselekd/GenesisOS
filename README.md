@@ -17,5 +17,5 @@ Thanks to the cool people in the OSDev Discord server for putting up with my non
 
 ## Dependencies
 
- - [https://github.com/limine-bootloader/limine]
- - [https://github.com/stivale/stivale]
+ - https://github.com/limine-bootloader/limine
+ - https://github.com/stivale/stivale
