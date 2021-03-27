@@ -1,0 +1,6 @@
+references
+*.elf
+*.hdd
+genesis.asm
+*.o
+*.tar
