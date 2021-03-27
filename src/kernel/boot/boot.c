@@ -1,4 +1,4 @@
-#include "include/bootstrap.h"
+#include "include/boot.h"
 
 static uint8_t stack[4096];
 struct stivale2_header_tag_framebuffer framebuffer_hdr_tag = {

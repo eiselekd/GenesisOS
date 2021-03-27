@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: GPL-3.0-or-later
 // Copyright (C) 2021 TTG <prs.ttg+gos@pm.me>
 
-#include "boot/include/bootstrap.h" 
+#include "boot/include/boot.h" 
 #include "boot/include/gdt.h" 
 #include "interrupt/include/idt.h" 
 #include "interrupt/include/isr.h" 
